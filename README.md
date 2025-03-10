@@ -24,10 +24,15 @@ Sua agência é [Agência], conta [Número] e seu saldo [Saldo] já está dispon
 
 ## 📂 **Estrutura do Projeto**  
 
-```
-📦 Bootcamp-Bradesco---Java-Cloud-Native  
- ┣ 📜 ContaTerminal.java  
- ┣ 📜 README.md  
+```plaintext
+📦 ContaBanco
+ ┣ 📜 ContaTerminal.java
+ ┣ 📜 README.md
+ ┣ 📂 src
+ ┣ 📂 bin
+ ┣ 📂 .vscode
+ ┣ 📜 settings.json
+ ┣ 📜 ContaTerminal.class
 ```
 
 ## ▶ **Como Executar**  
